@@ -6,7 +6,6 @@ You could get started jorney from my [Blog](https://blog-eight-xi-49.vercel.app/
  
 </div>
 
-<img width="50%" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=VadimSvirdoff&count_private=true&show_icons=true&theme=tokyonight" />
 <div align="left">
 <h3>🔥 Skills</h2>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
