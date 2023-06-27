@@ -2,7 +2,7 @@
 <div >
  <h3>👋 Hey, welcome on board!</h3>
  
-You could get started jorney from my [Blog](https://blog-eight-xi-49.vercel.app/) 🚀🚀🚀
+You could get started jorney from my [Blog](https://vadymsvyrydov.vercel.app/) 🚀🚀🚀
  
 </div>
 
